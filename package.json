@@ -1,0 +1,24 @@
+{
+  "name": "fox",
+  "version": "1.0.0",
+  "description": "README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinahoyos/wedoweb-challenge.git"
+  },
+  "author": "agustina hoyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustinahoyos/wedoweb-challenge/issues"
+  },
+  "homepage": "https://github.com/agustinahoyos/wedoweb-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

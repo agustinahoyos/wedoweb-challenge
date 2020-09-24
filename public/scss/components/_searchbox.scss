@@ -1,0 +1,18 @@
+.searchbox{
+    margin-top:42px;
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 85px;
+    margin-bottom: 45px;
+    align-items: center;
+    label{ 
+       color:$medium;
+       padding: 1%;
+       font-family: Roboto;
+       font-size: 20px;}
+    input{
+       background-color: $light;}
+    .magni{
+       position: absolute;
+       margin-left: 160px;} 
+  }

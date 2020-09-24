@@ -1,0 +1,36 @@
+@media screen and (max-width: 375px) {
+    .navbar{
+       width: 375px; 
+       img{ 
+        margin-left: 20px;
+        width: 116px;}    
+       button{
+        margin-right: 25px;
+        padding: 1px;}
+     }
+  
+    .searchbox{
+      label{
+        display: none;}
+     }
+  
+    .cards-container{
+      display: flex;
+      justify-content: center;
+       .card{
+         width: 311px;
+         height: 311px;}
+     }
+   
+     .footer{
+        img{
+           display: none;}
+     }   
+     
+  }
+
+  @media screen and (min-width: 700px) {
+    .cards-container{
+       margin-left: 85px;
+    }
+  }

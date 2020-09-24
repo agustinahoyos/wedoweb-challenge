@@ -1,0 +1,19 @@
+.logo {
+    width:197px; 
+    margin-left: 85px;
+    margin-top: 23px;
+    margin-bottom: 7px;}
+  .navbar-toggler{
+    background-color: $fucsia;
+    display: flex;}
+ .collapse {
+    display: flex;
+    justify-content: flex-end ;
+    button{   
+       background-color: $fucsia;
+       color: white;
+       margin-right: 89px;
+       margin-top: 18px;
+       margin-bottom: 13px;
+       width:81px;}
+   }

@@ -1,0 +1,16 @@
+.fucsia-bar{    
+    height: 6px;
+    width: 100%;
+    background-color: $fucsia;
+ }
+ 
+ .footer{
+    height: 55px;
+    background-color: $dark;
+    display: flex;
+    justify-content: center;
+    span{
+       color:white;
+       margin: 13px;
+       margin-top: 19px;}
+ }
